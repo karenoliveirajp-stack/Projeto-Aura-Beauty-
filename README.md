@@ -4,12 +4,6 @@ Projeto desenvolvido com foco em prática de HTML e CSS, criando uma landing pag
 
 ---
 
-## 🌐 Demonstração
-
-🔗 Em breve no GitHub Pages
-
----
-
 ## 📸 Preview
 
 <img width="1482" height="720" alt="image" src="https://github.com/user-attachments/assets/2df292aa-5b96-47b8-94b1-5adf5c95a2a1" />
