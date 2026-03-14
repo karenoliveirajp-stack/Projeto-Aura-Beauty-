@@ -18,8 +18,7 @@ Projeto desenvolvido com foco em prática de HTML e CSS, criando uma landing pag
 - HTML5
 - CSS3
 - Flexbox
-- Responsividade
-
+- 
 ---
 
 ## 🎯 Objetivo do Projeto
@@ -28,7 +27,6 @@ Treinar:
 - Estruturação semântica
 - Organização de layout
 - Design moderno
-- Responsividade
 
 ---
 
